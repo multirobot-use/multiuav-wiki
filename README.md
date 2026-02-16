@@ -1,2 +1,2 @@
-# Mult-UAV_wiki
+# Mult-UAV Wiki
 This repository contains documentation and example configuration files to setup and run experiments with multiple UAVs in our MACS (Multi-robot & Control Systems) lab at the University of Seville. Go to the [Wiki](https://github.com/multirobot-use/multiuav-wiki/wiki) section for the details!
